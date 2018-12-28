@@ -1,9 +1,18 @@
-x =5
+x=input()
 
-y =2
+y=input()
 
+z=input()
 
-print(x+y,x-y,x*y,x%y)
+c=input()
+
+x=int(x)
+
+y=int(y)
+
+z=float(z)
+
+c=float(c)
 
 
 
