@@ -1,3 +1,5 @@
+#simple password program
+
 x =  input()
 
 x=int(x)
