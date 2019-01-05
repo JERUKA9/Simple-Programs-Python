@@ -1,6 +1,7 @@
-list =['one','two','three']
 
-for  number in list:
-    print(number)
+list =['one','two','three','four']
 
 
+for  i in list:
+
+    print(i+" thats number ")
