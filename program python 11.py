@@ -1,9 +1,20 @@
-def multiply(a,b):
-	
+def adding(a,b):
+    
+    return a+b 
 
-    print(a*b)
+a = 2
 
-    multiply(2,2)
+b = 2    
+    
+
+
+c = a+b
+  
+    
+
+
+
+print(c)
 
 
 
