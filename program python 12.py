@@ -1,5 +1,9 @@
 def info(tex):
     
-    print("hello")
+    info = "have a nice day "
+    
+    print("hello"+"have a nice day")
+    
     
     print(info)
+    
