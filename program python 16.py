@@ -10,5 +10,8 @@ class Calculator():
             print(result)
             
             my_calc = Calculator()
-            Calc.add(10,5)
-            Calc.substract(10,5
+            
+            my_calc.add(10,5)
+            my_calc.substract(10,5)
+            
+            
